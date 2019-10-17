@@ -3,6 +3,7 @@
 [![Hacktoberfest2019](https://img.shields.io/badge/HACKTOBERFEST-2019-blueviolet)](https://github.com/topics/hacktoberfest2019)
 
 Do you have a cat that you want the world to see? Or maybe you just want a nice simple project for your first pull request for hacktoberfest? Either way you have come to the right place. Check Meowt is a simple open source image gallery of cat photos. We are always looking for contributors to add more cats.  
+
 ## How To Contribute
 1. Fork this repo
 2. Create your feature branch: `git checkout -b my-new-feature`
@@ -12,4 +13,4 @@ Do you have a cat that you want the world to see? Or maybe you just want a nice 
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request 😻
 
-### Don't Forget To  ⭐️
+*Please ⭐️ and Share*
