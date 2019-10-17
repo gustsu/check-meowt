@@ -7,7 +7,7 @@ Do you have a cat that you want the world to see? Or maybe you just want a nice 
 1. Fork this repo
 2. Create your feature branch: `git checkout -b my-new-feature`
 3. Add your Cat image to the images folder (All Images should be at least 1000x1000)
-4. Add your Cat HTML to index.html (This should include the Cat's name and a short discription of the cat)
+4. Add your Cat HTML to index.html (This should include the Cat's name and a short description of the cat)
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request 😻
