@@ -242,7 +242,6 @@ input, select, textarea {
 		letter-spacing: 0.1em;
 		line-height: 1.5;
 		margin: 0 0 1em 0;
-		text-transform: uppercase;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -1659,9 +1658,9 @@ input, select, textarea {
 
 			#main .thumb > h2 {
 				pointer-events: none;
-				bottom: 1.875em;
-				font-size: 0.8em;
-				left: 2.1875em;
+				bottom: 30px;
+				font-size: 1.35em;
+				left: 30px;
 				margin: 0;
 				position: absolute;
 				z-index: 1;
